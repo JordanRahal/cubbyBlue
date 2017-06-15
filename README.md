@@ -6,7 +6,7 @@ Structure of the app is to be a python-MySQL powered DB app powered by Flask. St
 I am using this site to walk through the app:
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
 
-microblog
+(below is from the author of the site)
 =========
 
 A decently featured microblogging web application written in Python and Flask that I'm developing in my Flask Mega-Tutorial series that begins [here](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
