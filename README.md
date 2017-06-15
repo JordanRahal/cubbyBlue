@@ -6,7 +6,21 @@ Structure of the app is to be a python-MySQL powered DB app powered by Flask. St
 I am using this site to walk through the app:
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
 
+Prior to running the app you need to ensure Flask is downloaded into the root directory of your app. See part one of the above tutorial for installation and setup details
+
+key commands:
+run flask 2 ways,
+
+First way is type python interpreter first followed by scripts
+$ flask\Scripts\activate run.py
+
+acivate virtual environment first
+$ flask\Scripts\activate
+$ python run.py
+
+
 (below is from the author of the site)
+
 =========
 
 A decently featured microblogging web application written in Python and Flask that I'm developing in my Flask Mega-Tutorial series that begins [here](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
