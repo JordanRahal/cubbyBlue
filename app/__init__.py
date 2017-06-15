@@ -1,4 +1,4 @@
-###this is our python initializiation file. Its the first thing that gets read
+###this is our python initialization file. Its the first thing that gets read
 ##from here, it will call on Flask to read in the rest of the app we have
 
 from flask import Flask
