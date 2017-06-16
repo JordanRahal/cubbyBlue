@@ -1,14 +1,12 @@
-cubbyBlue:
-I am developing my own sabermetrics web-app to track some cool baseball stuff as well as teach myself some fun coding techniques.
-
 Structure of the app is to be a python-MySQL powered DB app powered by Flask. Still looking for optimal UI/UX framework that will conform to that
 
 I am using this site to walk through the app:
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
 
-Prior to running the app you need to ensure Flask is downloaded into the root directory of your app. See part one of the above tutorial for installation and setup details
+Prior to running the app: 
+1) ensure Flask is downloaded into the root directory of your app. See part one of the above tutorial for installation and setup details
 
-key commands:
+key commands::
 run flask 2 ways,
 
 First way is type python interpreter first followed by scripts
