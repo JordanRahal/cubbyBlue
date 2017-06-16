@@ -10,7 +10,7 @@ key commands::
 run flask 2 ways,
 
 First way is type python interpreter first followed by scripts
-$ flask\Scripts\activate run.py
+$ flask\Scripts\python run.py
 
 acivate virtual environment first
 $ flask\Scripts\activate
